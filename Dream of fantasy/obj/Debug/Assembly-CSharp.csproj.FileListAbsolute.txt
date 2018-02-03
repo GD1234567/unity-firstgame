@@ -1,0 +1,188 @@
+C:\Users\GGGD\Desktop\myfirst2dgame\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\GGGD\Desktop\myfirst2dgame\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\GGGD\Desktop\myfirst2dgame\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\GGGD\Desktop\myfirst2dgame\Temp\bin\Debug\UnityEditor.dll
+C:\Users\GGGD\Desktop\myfirst2dgame\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\GGGD\Desktop\myfirst2dgame\Temp\bin\Debug\UnityEngine.dll
+C:\Users\GGGD\Desktop\myfirst2dgame\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\GGGD\Desktop\myfirst2dgame\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\GGGD\Desktop\myfirst2dgame\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Users\GGGD\Desktop\myfirst2dgame\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\GGGD\Desktop\myfirst2dgame\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\GGGD\Desktop\myfirst2dgame\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\GGGD\Desktop\myfirst2dgame\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\GGGD\Desktop\myfirst2dgame\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\GGGD\Desktop\myfirst2dgame\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\GGGD\Desktop\myfirst2dgame\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\GGGD\Desktop\myfirst2dgame\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\GGGD\Desktop\myfirst2dgame\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\GGGD\Desktop\myfirst2dgame\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\GGGD\Desktop\myfirst2dgame\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\GGGD\Desktop\myfirst2dgame\Temp\bin\Debug\UnityEngine.xml
+C:\Users\GGGD\Desktop\myfirst2dgame\Temp\bin\Debug\UnityEditor.xml
+C:\Users\GGGD\Desktop\myfirst2dgame\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\GGGD\Desktop\myfirst2dgame\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\GGGD\Desktop\myfirst2dgame\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Users\GGGD\Desktop\myfirst2dgame\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\GGGD\Desktop\myfirst2dgame\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\GGGD\Desktop\myfirst2dgame\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\GGGD\Desktop\myfirst2dgame\obj\Debug\Assembly-CSharp.dll
+C:\Users\GGGD\Desktop\myfirst2dgame\obj\Debug\Assembly-CSharp.pdb
+C:\Users\GGGD\Desktop\myfirst2game\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\GGGD\Desktop\myfirst2game\obj\Debug\Assembly-CSharp.dll
+C:\Users\GGGD\Desktop\myfirst2game\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\GGGD\Desktop\myfirst2game\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\GGGD\Desktop\myfirst2game\Temp\bin\Debug\UnityEditor.dll
+C:\Users\GGGD\Desktop\myfirst2game\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\GGGD\Desktop\myfirst2game\Temp\bin\Debug\UnityEngine.dll
+C:\Users\GGGD\Desktop\myfirst2game\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\GGGD\Desktop\myfirst2game\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\GGGD\Desktop\myfirst2game\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\GGGD\Desktop\myfirst2game\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\GGGD\Desktop\myfirst2game\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\GGGD\Desktop\myfirst2game\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\GGGD\Desktop\myfirst2game\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\GGGD\Desktop\myfirst2game\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\GGGD\Desktop\myfirst2game\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\GGGD\Desktop\myfirst2game\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\GGGD\Desktop\myfirst2game\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\GGGD\Desktop\myfirst2game\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\GGGD\Desktop\myfirst2game\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\GGGD\Desktop\myfirst2game\Temp\bin\Debug\UnityEngine.xml
+C:\Users\GGGD\Desktop\myfirst2game\Temp\bin\Debug\UnityEditor.xml
+C:\Users\GGGD\Desktop\myfirst2game\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\GGGD\Desktop\myfirst2game\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\GGGD\Desktop\myfirst2game\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\GGGD\Desktop\myfirst2game\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\GGGD\Desktop\myfirst2game\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\GGGD\Desktop\myfirst2game\obj\Debug\Assembly-CSharp.pdb
+C:\Users\GGGD\Desktop\best\myfirst2game\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\GGGD\Desktop\best\myfirst2game\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\GGGD\Desktop\best\myfirst2game\Temp\bin\Debug\UnityEditor.dll
+C:\Users\GGGD\Desktop\best\myfirst2game\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\GGGD\Desktop\best\myfirst2game\Temp\bin\Debug\UnityEngine.dll
+C:\Users\GGGD\Desktop\best\myfirst2game\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\GGGD\Desktop\best\myfirst2game\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\GGGD\Desktop\best\myfirst2game\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Users\GGGD\Desktop\best\myfirst2game\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\GGGD\Desktop\best\myfirst2game\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\GGGD\Desktop\best\myfirst2game\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\GGGD\Desktop\best\myfirst2game\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\GGGD\Desktop\best\myfirst2game\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\GGGD\Desktop\best\myfirst2game\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\GGGD\Desktop\best\myfirst2game\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\GGGD\Desktop\best\myfirst2game\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\GGGD\Desktop\best\myfirst2game\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\GGGD\Desktop\best\myfirst2game\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\GGGD\Desktop\best\myfirst2game\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\GGGD\Desktop\best\myfirst2game\Temp\bin\Debug\UnityEngine.xml
+C:\Users\GGGD\Desktop\best\myfirst2game\Temp\bin\Debug\UnityEditor.xml
+C:\Users\GGGD\Desktop\best\myfirst2game\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\GGGD\Desktop\best\myfirst2game\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\GGGD\Desktop\best\myfirst2game\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Users\GGGD\Desktop\best\myfirst2game\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\GGGD\Desktop\best\myfirst2game\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\GGGD\Desktop\best\myfirst2game\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\GGGD\Desktop\best\myfirst2game\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\GGGD\Desktop\best\myfirst2game\obj\Debug\Assembly-CSharp.dll
+C:\Users\GGGD\Desktop\best\myfirst2game\obj\Debug\Assembly-CSharp.pdb
+C:\Users\GGGD\Desktop\myfirst2game\Temp\bin\Debug\nunit.framework.dll
+C:\Users\GGGD\Desktop\myfirst2game\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\GGGD\Desktop\myfirst2game\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\GGGD\Desktop\myfirst2game\Temp\bin\Debug\nunit.framework.xml
+D:\myfirst2game\Temp\bin\Debug\Assembly-CSharp.dll
+D:\myfirst2game\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\myfirst2game\Temp\bin\Debug\nunit.framework.dll
+D:\myfirst2game\Temp\bin\Debug\UnityEditor.dll
+D:\myfirst2game\Temp\bin\Debug\UnityEngine.Analytics.dll
+D:\myfirst2game\Temp\bin\Debug\UnityEngine.dll
+D:\myfirst2game\Temp\bin\Debug\UnityEngine.HoloLens.dll
+D:\myfirst2game\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\myfirst2game\Temp\bin\Debug\UnityEngine.TestRunner.dll
+D:\myfirst2game\Temp\bin\Debug\UnityEngine.UI.dll
+D:\myfirst2game\Temp\bin\Debug\UnityEngine.VR.dll
+D:\myfirst2game\Temp\bin\Debug\Mono.Cecil.dll
+D:\myfirst2game\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\myfirst2game\Temp\bin\Debug\Unity.DataContract.dll
+D:\myfirst2game\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\myfirst2game\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\myfirst2game\Temp\bin\Debug\Unity.CecilTools.dll
+D:\myfirst2game\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\myfirst2game\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\myfirst2game\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+D:\myfirst2game\Temp\bin\Debug\UnityEngine.xml
+D:\myfirst2game\Temp\bin\Debug\UnityEditor.xml
+D:\myfirst2game\Temp\bin\Debug\UnityEngine.UI.xml
+D:\myfirst2game\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\myfirst2game\Temp\bin\Debug\UnityEngine.TestRunner.xml
+D:\myfirst2game\Temp\bin\Debug\nunit.framework.xml
+D:\myfirst2game\Temp\bin\Debug\UnityEngine.Analytics.xml
+D:\myfirst2game\Temp\bin\Debug\UnityEngine.HoloLens.xml
+D:\myfirst2game\Temp\bin\Debug\UnityEngine.VR.xml
+D:\myfirst2game\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\myfirst2game\obj\Debug\Assembly-CSharp.dll
+D:\myfirst2game\obj\Debug\Assembly-CSharp.pdb
+C:\Users\GGGD\Desktop\3\Dream of fantasy\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\GGGD\Desktop\3\Dream of fantasy\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\GGGD\Desktop\3\Dream of fantasy\Temp\bin\Debug\nunit.framework.dll
+C:\Users\GGGD\Desktop\3\Dream of fantasy\Temp\bin\Debug\UnityEditor.dll
+C:\Users\GGGD\Desktop\3\Dream of fantasy\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\GGGD\Desktop\3\Dream of fantasy\Temp\bin\Debug\UnityEngine.dll
+C:\Users\GGGD\Desktop\3\Dream of fantasy\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\GGGD\Desktop\3\Dream of fantasy\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\GGGD\Desktop\3\Dream of fantasy\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\GGGD\Desktop\3\Dream of fantasy\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\GGGD\Desktop\3\Dream of fantasy\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\GGGD\Desktop\3\Dream of fantasy\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\GGGD\Desktop\3\Dream of fantasy\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\GGGD\Desktop\3\Dream of fantasy\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\GGGD\Desktop\3\Dream of fantasy\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\GGGD\Desktop\3\Dream of fantasy\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\GGGD\Desktop\3\Dream of fantasy\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\GGGD\Desktop\3\Dream of fantasy\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\GGGD\Desktop\3\Dream of fantasy\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\GGGD\Desktop\3\Dream of fantasy\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\GGGD\Desktop\3\Dream of fantasy\Temp\bin\Debug\UnityEngine.xml
+C:\Users\GGGD\Desktop\3\Dream of fantasy\Temp\bin\Debug\UnityEditor.xml
+C:\Users\GGGD\Desktop\3\Dream of fantasy\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\GGGD\Desktop\3\Dream of fantasy\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\GGGD\Desktop\3\Dream of fantasy\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\GGGD\Desktop\3\Dream of fantasy\Temp\bin\Debug\nunit.framework.xml
+C:\Users\GGGD\Desktop\3\Dream of fantasy\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\GGGD\Desktop\3\Dream of fantasy\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\GGGD\Desktop\3\Dream of fantasy\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\GGGD\Desktop\3\Dream of fantasy\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\GGGD\Desktop\3\Dream of fantasy\obj\Debug\Assembly-CSharp.dll
+C:\Users\GGGD\Desktop\3\Dream of fantasy\obj\Debug\Assembly-CSharp.pdb
+D:\Dream of fantasy\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\Dream of fantasy\obj\Debug\Assembly-CSharp.dll
+D:\Dream of fantasy\Temp\bin\Debug\Assembly-CSharp.dll
+D:\Dream of fantasy\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\Dream of fantasy\Temp\bin\Debug\nunit.framework.dll
+D:\Dream of fantasy\Temp\bin\Debug\UnityEditor.dll
+D:\Dream of fantasy\Temp\bin\Debug\UnityEngine.Analytics.dll
+D:\Dream of fantasy\Temp\bin\Debug\UnityEngine.dll
+D:\Dream of fantasy\Temp\bin\Debug\UnityEngine.HoloLens.dll
+D:\Dream of fantasy\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\Dream of fantasy\Temp\bin\Debug\UnityEngine.TestRunner.dll
+D:\Dream of fantasy\Temp\bin\Debug\UnityEngine.UI.dll
+D:\Dream of fantasy\Temp\bin\Debug\UnityEngine.VR.dll
+D:\Dream of fantasy\Temp\bin\Debug\Mono.Cecil.dll
+D:\Dream of fantasy\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\Dream of fantasy\Temp\bin\Debug\Unity.DataContract.dll
+D:\Dream of fantasy\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\Dream of fantasy\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\Dream of fantasy\Temp\bin\Debug\Unity.CecilTools.dll
+D:\Dream of fantasy\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\Dream of fantasy\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\Dream of fantasy\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+D:\Dream of fantasy\Temp\bin\Debug\UnityEngine.xml
+D:\Dream of fantasy\Temp\bin\Debug\UnityEditor.xml
+D:\Dream of fantasy\Temp\bin\Debug\UnityEngine.UI.xml
+D:\Dream of fantasy\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\Dream of fantasy\Temp\bin\Debug\UnityEngine.TestRunner.xml
+D:\Dream of fantasy\Temp\bin\Debug\nunit.framework.xml
+D:\Dream of fantasy\Temp\bin\Debug\UnityEngine.Analytics.xml
+D:\Dream of fantasy\Temp\bin\Debug\UnityEngine.HoloLens.xml
+D:\Dream of fantasy\Temp\bin\Debug\UnityEngine.VR.xml
+D:\Dream of fantasy\obj\Debug\Assembly-CSharp.pdb
